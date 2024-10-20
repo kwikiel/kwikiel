@@ -28,6 +28,9 @@ A Python-based tool for transcribing **MP3 and audio to text**, including **text
 
 ---
 
+### Do you want to have an image inside your console log? I've created a rendering engine for that 
+<img width="672" alt="rendering" src="https://github.com/user-attachments/assets/8fb782a7-d4d4-4221-82e7-fbd3a155e59c">
+
 
  **International Young Physicists’ Tournament (IYPT)** 2012.
 
